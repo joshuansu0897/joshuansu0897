@@ -13,7 +13,7 @@
  > 
 > 📦 218.7 kB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 77 Public Repositories 
  > 
@@ -61,5 +61,5 @@ Windows                  2 hrs 27 mins       ███████████�
 ```
 
 
- Last Updated on 18/09/2021
+ Last Updated on 19/09/2021
 <!--END_SECTION:waka-->
