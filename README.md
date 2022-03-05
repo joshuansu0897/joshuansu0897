@@ -5,8 +5,6 @@
 [![CodeWars](https://www.codewars.com/users/joshuansu0897/badges/micro)](https://www.codewars.com/users/joshuansu0897)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2057%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -63,5 +61,5 @@ Linux                    11 hrs 13 mins      ███████████�
 ```
 
 
- Last Updated on 04/03/2022 05:26:01 UTC
+ Last Updated on 05/03/2022 05:27:16 UTC
 <!--END_SECTION:waka-->
