@@ -5,7 +5,7 @@
 [![CodeWars](https://www.codewars.com/users/joshuansu0897/badges/micro)](https://www.codewars.com/users/joshuansu0897)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -48,16 +48,19 @@ Sunday       26 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     3 mins              █████████████████████████   100.0%
+Other                    18 mins             ██████████░░░░░░░░░░░░░░░   40.73% 
+JavaScript               13 mins             ███████░░░░░░░░░░░░░░░░░░   30.34% 
+YAML                     12 mins             ███████░░░░░░░░░░░░░░░░░░   27.92% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.0%
+VS Code                  44 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.0%
+Windows                  44 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 23/08/2022 08:45:26 UTC
+ Last Updated on 24/08/2022 08:53:23 UTC
 <!--END_SECTION:waka-->
