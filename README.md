@@ -5,6 +5,8 @@
 [![CodeWars](https://www.codewars.com/users/joshuansu0897/badges/micro)](https://www.codewars.com/users/joshuansu0897)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%2043%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -54,5 +56,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/07/2024 09:04:51 UTC
+ Last Updated on 26/07/2024 09:04:46 UTC
 <!--END_SECTION:waka-->
