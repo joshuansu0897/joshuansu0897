@@ -5,6 +5,10 @@
 [![CodeWars](https://www.codewars.com/users/joshuansu0897/badges/micro)](https://www.codewars.com/users/joshuansu0897)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-927%20hrs%2056%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2026%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.77%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -81,5 +85,5 @@ Opus                     15,038 lines        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 04/11/2026 00:58:54 UTC
+ Last Updated on 04/11/2026 16:44:30 UTC
 <!--END_SECTION:waka-->
